@@ -1,7 +1,7 @@
 - 👋 Hi, Awel Abubekar
 - 👀 I’m interested in python development and comptetive programming
 - 🌱 I’m currently learning DSA, backend development with python framework like django
-- 📫 you can contact me on telegram @awel08 or email awelanunekar@gmail.com
+- 📫 you can contact me on telegram @awel08 or email awelabubekar@gmail.com
 
 
 <!---
