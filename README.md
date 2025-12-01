@@ -19,8 +19,8 @@ I love solving algorithmic problems and designing efficient backend architecture
 
 * 💡 **Skills:**
 
-  * **Languages:** Python, Go, JavaScript, SQL
-  * **Frameworks & Tools:** Django, FastAPI, React, Docker, CI/CD
+  * **Languages:** Python, Go,TypeScript, JavaScript, SQL
+  * **Frameworks & Tools:** Django, FastAPI,Express,Gin, React, Docker, CI/CD
   * **Databases:** PostgreSQL, MongoDB
   * **Testing:** Pytest, Unit & Integration Testing
   * **Other:** Git, Cloudinary for media handling
