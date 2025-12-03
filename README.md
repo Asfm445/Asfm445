@@ -45,7 +45,7 @@ I love solving algorithmic problems and designing efficient backend architecture
 
 ## 🏆 Achievements
 
-* Solved **700+ algorithmic problems** on LeetCode & Codeforces
+* Solved **750+ algorithmic problems** on LeetCode & Codeforces
 * Selected for **A2SV (African to Silicon Valley)** — Google-backed software engineering program
 * Active member of **CSEC-ASTU**, mentoring peers in DSA and backend development
 
