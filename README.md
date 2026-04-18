@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a **backend-focused software engineer** and **Computer Science student at Adama Science and Technology University (ASTU)** with over 1.5 years of experience building scalable web systems.
+I’m a **backend-focused software engineer** and **Computer Science student at Adama Science and Technology University (ASTU)** with over 2+ years of experience building scalable web systems.
 I love solving algorithmic problems and designing efficient backend architectures using modern tools and frameworks.
 
 * 🧠 **Current Focus:**
